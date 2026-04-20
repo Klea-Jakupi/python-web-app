@@ -37,3 +37,25 @@ Improving system usability with frontend tools
 
 ##Screenshots
 <img width="474" height="375" alt="image" src="https://github.com/user-attachments/assets/7cdd2216-167a-466c-bbaf-f17a4663d7b9" />
+
+<img width="443" height="274" alt="image" src="https://github.com/user-attachments/assets/69b63aa2-83d5-4851-8178-47a5b60a4e80" />
+
+<img width="443" height="284" alt="image" src="https://github.com/user-attachments/assets/56494ebf-a04e-42c7-b9f9-8cbe828071a9" />
+
+<img width="441" height="228" alt="image" src="https://github.com/user-attachments/assets/753607ce-74b6-482e-bdf2-43380ebef17f" />
+
+<img width="435" height="221" alt="image" src="https://github.com/user-attachments/assets/9bca0b67-f7b9-43f6-a093-0123b6c3e0fa" />
+
+<img width="430" height="206" alt="image" src="https://github.com/user-attachments/assets/ab9b9fdc-0007-4da5-823a-cbd80e7074b8" />
+
+<img width="450" height="102" alt="image" src="https://github.com/user-attachments/assets/32218dc9-caad-48c9-9468-a35b8add3318" />
+<img width="451" height="216" alt="image" src="https://github.com/user-attachments/assets/1adabebc-3718-494a-be4a-8281175c0024" />
+
+<img width="447" height="231" alt="image" src="https://github.com/user-attachments/assets/83d6a330-1a62-4c39-b5b9-7e5ffa6d053f" />
+
+<img width="453" height="237" alt="image" src="https://github.com/user-attachments/assets/b7a89454-f404-4558-9008-f865da19e663" />
+
+
+
+
+
