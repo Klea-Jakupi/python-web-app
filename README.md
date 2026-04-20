@@ -23,19 +23,33 @@ Frontend: HTML, CSS, JavaScript
 Database: SQLite
 Additional: JavaScript-based chatbot
 
+How to Run
+
+# Navigate into the project
+cd blood-bank-system
+
+# Run migrations
+python manage.py migrate
+
+# Start the server
+python manage.py runserver
+Then open:
+http://127.0.0.1:8000/
+
+
 **Key Outcomes**
 Faster identification of available donors
 Improved response time in emergencies
 Better organization and transparency of blood data
 
-What I Learned
+**What I Learned**
 Building full-stack web applications using Django
 Designing database-driven systems
 Implementing user roles and admin panels
 Improving system usability with frontend tools
 
 
-##Screenshots
+**##Screenshots**
 <img width="474" height="375" alt="image" src="https://github.com/user-attachments/assets/7cdd2216-167a-466c-bbaf-f17a4663d7b9" />
 
 <img width="443" height="274" alt="image" src="https://github.com/user-attachments/assets/69b63aa2-83d5-4851-8178-47a5b60a4e80" />
